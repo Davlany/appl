@@ -89,9 +89,3 @@ Size: 1000 Pattern: random Method: Dual Pivot Comparisons: 7831 Swaps: 4780 Exec
 ## Dependencies
 - Go 1.17 or higher.
 
-## Contribution
-Feel free to fork this repository and submit pull requests for improvements or additional features.
-
-## License
-This project is licensed under the MIT License.
-
